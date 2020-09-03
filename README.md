@@ -41,7 +41,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Screenshots
 
-![GitHub Logo](/login_screen.PNG =100x20)
+![Login Screen](/login_screen.PNG =250x)
 
 ## Learn More
 
