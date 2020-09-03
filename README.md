@@ -41,7 +41,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Screenshots
 
-![Login Screen](/login_screen.PNG =250x)
+![Login Screen](/login_screen.PNG)
 
 ## Learn More
 
