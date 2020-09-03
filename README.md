@@ -41,13 +41,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Screenshots
 
-1. Login Screen
+### 1. Login Screen
 ![Login Screen](/login_screen.PNG)
 
-2. Login Screen
+### 2. After Login Screen
 ![After Login Screen](/afterLogin_dashboard.PNG)
 
-3. Login Screen
+### 3. Firebase Dashboard Screen
 ![Firebase Dashboard Screen](/firebase_dashboard.PNG)
 
 
