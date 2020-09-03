@@ -41,7 +41,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Screenshots
 
-![GitHub Logo](/https://github.com/iamdhruvsharma/Login-Page-using-React/blob/master/login_screen.PNG)
+![GitHub Logo](/login_screen.PNG)
 
 ## Learn More
 
